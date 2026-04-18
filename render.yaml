@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: criczone-live-2026
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: CRICAPI_KEY
+        sync: false

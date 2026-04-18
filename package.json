@@ -1,0 +1,13 @@
+{
+  "name": "criczone-live-2026",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CricZone live cricket website with a secure server-side CricAPI proxy.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

@@ -1,0 +1,3 @@
+module.exports = {
+  CRICAPI_KEY: "PASTE_YOUR_LOCAL_CRICAPI_KEY_HERE"
+};
